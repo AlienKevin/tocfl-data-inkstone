@@ -1,171 +1,94 @@
-姓名	姓名	xìngmíng	/name and surname/
-公園	公園	gōngyuán	/park (for public recreation)/
-國家	國家	guójiā	/country/
-城市	城市	chéngshì	/city/
-街	街	jiē	/street/
-電子郵件	電子郵件	diàn​zǐ​yóu​jiàn	/email/
-結婚	結婚	jiéhūn	/to marry/
-小時	小時	xiǎoshí	/hour/
-點鐘	點鐘	diǎnzhōng	/(indicating time of day) o'clock/
-分鐘	分鐘	fēnzhōng	/minute/
-夏天	夏天	xiàtiān	/summer/
-冬天	冬天	dōngtiān	/winter/
-秋天	秋天	qiūtiān	/autumn/
-春天	春天	chūntiān	/spring (season)/
-年輕	年輕	niánqīng	/young/
-男生	男生	nánshēng	/schoolboy/
-女生	女生	nǚshēng	/schoolgirl/
-小孩	小孩	xiǎohái	/child/
-家人	家人	jiārén	/household/
-緊張	緊張	jǐnzhāng	/nervous/
-可愛	可愛	kěài	/adorable/
-胖	胖	pàng	/healthy/
-矮	矮	ǎi	/low/
-瘦	瘦	shòu	/thin/
-千	千	qiān	/see 鞦韆|秋千[qiu1 qian1]/
-萬	萬	wàn	/ten thousand/
-辦公室	辦公室	bàngōngshì	/office/
-工廠	工廠	gōngchǎng	/factory/
-工人	工人	gōngrén	/worker/
-護士	護士	hùshì	/nurse/
-司機	司機	sījī	/chauffeur/
-老闆	老闆	lǎobǎn	/Robam (brand)/
-同事	同事	tóngshì	/colleague/
-上班	上班	shàngbān	/to go to work/
-小學	小學	xiǎoxué	/elementary school/
-上學	上學	shàngxué	/to go to school/
-作業	作業	zuòyè	/school assignment/
-功課	功課	gōngkè	/homework/
-請假	請假	qǐngjià	/to request leave of absence/
-教室	教室	jiàoshì	/classroom/
-洗手間	洗手間	xǐshǒujiān	/toilet/
-語言	語言	yǔyán	/language/
-科學	科學	kēxué	/science/
-華語	華語	huáyǔ	/Chinese language/
-黑板	黑板	hēibǎn	/blackboard/
-課本	課本	kèběn	/textbook/
-句子	句子	jùzi	/sentence/
-注意	注意	zhùyì	/to take note of/
-讀書	讀書	dúshū	/to read a book/
-回答	回答	huídá	/to reply/
-休息	休息	xiūxí	/rest/
-決定	決定	juédìng	/to decide (to do something)/
-圖片	圖片	túpiàn	/image/
-記得	記得	jìde	/to remember/
-房間	房間	fángjiān	/room/
-廚房	廚房	chúfáng	/kitchen/
-窗	窗	chuānghu	/variant of 窗[chuang1]/
-樓	樓	lóu	/house with more than 1 story/
-樓上	樓上	lóushàng	/upstairs/
-樓下	樓下	lóuxià	/downstairs/
-電梯	電梯	diàntī	/elevator/
-家具	家具	jiājù	/furniture/
-椅子	椅子	yǐzi	/chair/
-桌	桌	zhuō	/old variant of 桌[zhuo1]/
-沙發	沙發	shāfā	/sofa (loanword)/
-冷氣	冷氣	lěngqì	/air conditioning (Tw)/
-安靜	安靜	ānjìng	/quiet/
-不錯	不錯	bùcuò	/correct/
-海邊	海邊	hǎibiān	/coast/
-湖	湖	hú	/lake/
-馬	馬	mǎ	/horse/
-鳥	鳥	niǎo	/penis/
-貓	貓	māo	/cat/
-雞	雞	jī	/fowl/
-太陽	太陽	tàiyáng	/sun/
-下雨	下雨	xiàyǔ	/to rain/
-下雪	下雪	xiàxuě	/to snow/
-新年	新年	xīnnián	/New Year/
-游泳	游泳	yóuyǒng	/swimming/
-踢	踢	tī	/to kick/
-足球	足球	zúqiú	/soccer ball/
-籃球	籃球	lánqiú	/basketball/
-網球	網球	wǎngqiú	/tennis/
-棒球	棒球	bàngqiú	/baseball/
-比賽	比賽	bǐsài	/competition (sports etc)/
-騎	騎	qí	/(Taiwan) saddle horse/
-腳踏車	腳踏車	jiǎotàchē	/bicycle/
-跑步	跑步	pǎobù	/to run/
-電影院	電影院	diànyǐngyuàn	/cinema/
-表演	表演	biǎoyǎn	/play/
-上網	上網	shàngwǎng	/to go online/
-輸	輸	shū	/to lose/
-贏	贏	yíng	/to beat/
-有時候	有時候	yǒushíhou	/sometimes/
-久	久	jiǔ	/(long) time/
-報紙	報紙	bàozhǐ	/newspaper/
-不客氣	不客氣	bùkèqì	/you're welcome/
-禮物	禮物	lǐwù	/gift/
-歡迎	歡迎	huānyíng	/to welcome/
-晚會	晚會	wǎnhuì	/evening party/
-信封	信封	xìnfēng	/envelope/
-寄	寄	jì	/to send/
-接	接	jiē	/to receive/
-郵局	郵局	yóujú	/post office/
-銀行	銀行	yínháng	/bank/
-警察	警察	jǐngchá	/police/
-壞	壞	huài	/bad/
-幫忙	幫忙	bāngmáng	/to help/
-計程車	計程車	jìchéngchē	/taxi/
-車站	車站	chēzhàn	/rail station/
-火車	火車	huǒchē	/train/
-飛機	飛機	fēijī	/airplane/
-飛機場	飛機場	fēijīchǎng	/airport/
-馬路	馬路	mǎlù	/street/
-十字路口	十字路口	shízìlùkǒu	/crossroads/
-對面	對面	duìmiàn	/(sitting) opposite/
-裡面	裡面	lǐmiàn	/inside/
-旅行	旅行	lǚxíng	/to travel/
-飯店	飯店	fàndiàn	/restaurant/
-旅館	旅館	lǚguǎn	/hotel/
-參觀	參觀	cānguān	/to look around/
-地圖	地圖	dìtú	/map/
-照相機	照相機	zhàoxiàngjī	/camera/
-照相	照相	zhàoxiàng	/to take a photograph/
-風景	風景	fēngjǐng	/scenery/
-頭	頭	tóu	/head/
-頭髮	頭髮	tóufǎ	/hair (on the head)/
-耳朵	耳朵	ěrduo	/ear/
-手指	手指	shǒuzhǐ	/finger/
-肚子	肚子	dùzi	/belly/
-健康	健康	jiànkāng	/health/
-感冒	感冒	gǎnmào	/to catch cold/
-生病	生病	shēngbìng	/to fall ill/
-受傷	受傷	shòushāng	/to sustain injuries/
-餓	餓	è	/to be hungry/
-渴	渴	kě	/thirsty/
-舒服	舒服	shūfu	/comfortable/
-眼鏡	眼鏡	yǎnjìng	/spectacles/
-痛	痛	tòng	/ache/
-希望	希望	xīwàng	/to wish for/
-商店	商店	shāngdiàn	/store/
-重要	重要	zhòngyào	/important/
-公斤	公斤	gōngjīn	/kilogram (kg)/
-顏色	顏色	yánsè	/color/
-黃色	黃色	huángsè	/yellow (color)/
-白色	白色	báisè	/white/
-襪子	襪子	wàzi	/socks/
-裙子	裙子	qúnzi	/skirt/
-短	短	duǎn	/short/
-小心	小心	xiǎoxīn	/to be careful/
-牛奶	牛奶	niúnǎi	/cow's milk/
-蛋	蛋	dàn	/egg/
-餃子	餃子	jiǎozi	/dumpling/
-麵	麵	miàn	/flour/
-湯	湯	tāng	/rushing current/
-包子	包子	bāozi	/steamed stuffed bun/
-蛋糕	蛋糕	dàngāo	/cake/
-麵包	麵包	miànbāo	/bread/
-水果	水果	shuǐguǒ	/fruit/
-香蕉	香蕉	xiāngjiāo	/banana/
-食物	食物	shíwù	/food/
-飲料	飲料	yǐnliào	/drink/
-果汁	果汁	guǒzhī	/fruit juice/
-杯子	杯子	bēizi	/cup/
-甜	甜	tián	/sweet/
-菜單	菜單	càidān	/menu/
-巧克力	巧克力	qiǎokèlì	/chocolate (loanword)/
-碗	碗	wǎn	/bowl/
-盤子	盤子	pánzi	/tray/
-一半	一半	yībàn	/half/
-一定	一定	yīdìng	/surely/
+公园	公園	gong1 yuan2	park (for public recreation)
+国家	國家	guo2 jia1	country
+电子邮件	電子郵件	dian4 zi3 you2 jian4	email
+结婚	結婚	jie2 hun1	to marry
+小时	小時	xiao3 shi2	hour
+点钟	點鐘	dian3 zhong1	(indicating time of day) o'clock
+分钟	分鐘	fen1 zhong1	minute
+年轻	年輕	nian2 qing1	young
+紧张	緊張	jin3 zhang1	nervous
+可爱	可愛	ke3 ai4	adorable
+万	萬	wan4	ten thousand
+办公室	辦公室	ban4 gong1 shi4	office
+工厂	工廠	gong1 chang3	factory
+护士	護士	hu4 shi4	nurse
+司机	司機	si1 ji1	chauffeur
+老板	老闆	lao3 ban3	Robam (brand)
+小学	小學	xiao3 xue2	elementary school
+上学	上學	shang4 xue2	to go to school
+作业	作業	zuo4 ye4	school assignment
+功课	功課	gong1 ke4	homework
+请假	請假	qing3 jia4	to request leave of absence
+洗手间	洗手間	xi3 shou3 jian1	toilet
+语言	語言	yu3 yan2	language
+科学	科學	ke1 xue2	science
+华语	華語	hua2 yu3	Chinese language
+课本	課本	ke4 ben3	textbook
+读书	讀書	du2 shu1	to read a book
+决定	決定	jue2 ding4	to decide (to do something)
+图片	圖片	tu2 pian4	image
+记得	記得	ji4 de5	to remember
+房间	房間	fang2 jian1	room
+厨房	廚房	chu2 fang2	kitchen
+楼	樓	lou2	house with more than 1 story
+楼上	樓上	lou2 shang4	upstairs
+楼下	樓下	lou2 xia4	downstairs
+电梯	電梯	dian4 ti1	elevator
+沙发	沙發	sha1 fa1	sofa (loanword)
+冷气	冷氣	leng3 qi4	air conditioning (Tw)
+安静	安靜	an1 jing4	quiet
+不错	不錯	bu4 cuo4	correct
+海边	海邊	hai3 bian1	coast
+马	馬	ma3	horse
+鸟	鳥	niao3	penis
+猫	貓	mao1	cat
+鸡	雞	ji1	fowl
+太阳	太陽	tai4 yang2	sun
+篮球	籃球	lan2 qiu2	basketball
+网球	網球	wang3 qiu2	tennis
+比赛	比賽	bi3 sai4	competition (sports etc)
+骑	騎	qi2	(Taiwan) saddle horse
+脚踏车	腳踏車	jiao3 ta4 che1	bicycle
+电影院	電影院	dian4 ying3 yuan4	cinema
+上网	上網	shang4 wang3	to go online
+输	輸	shu1	to lose
+赢	贏	ying2	to beat
+有时候	有時候	you3 shi2 hou5	sometimes
+报纸	報紙	bao4 zhi3	newspaper
+不客气	不客氣	bu4 ke4 qi4	you're welcome
+礼物	禮物	li3 wu4	gift
+欢迎	歡迎	huan1 ying2	to welcome
+晚会	晚會	wan3 hui4	evening party
+邮局	郵局	you2 ju2	post office
+银行	銀行	yin2 hang2	bank
+坏	壞	huai4	bad
+帮忙	幫忙	bang1 mang2	to help
+计程车	計程車	ji4 cheng2 che1	taxi
+车站	車站	che1 zhan4	rail station
+火车	火車	huo3 che1	train
+飞机	飛機	fei1 ji1	airplane
+飞机场	飛機場	fei1 ji1 chang3	airport
+马路	馬路	ma3 lu4	street
+对面	對面	dui4 mian4	(sitting) opposite
+里面	裡面	li3 mian4	inside
+饭店	飯店	fan4 dian4	restaurant
+旅馆	旅館	lü3 guan3	hotel
+参观	參觀	can1 guan1	to look around
+地图	地圖	di4 tu2	map
+照相机	照相機	zhao4 xiang4 ji1	camera
+风景	風景	feng1 jing3	scenery
+头	頭	tou2	head
+头发	頭髮	tou2 fa3	hair (on the head)
+受伤	受傷	shou4 shang1	to sustain injuries
+饿	餓	e4	to be hungry
+眼镜	眼鏡	yan3 jing4	spectacles
+颜色	顏色	yan2 se4	color
+黄色	黃色	huang2 se4	yellow (color)
+袜子	襪子	wa4 zi5	socks
+饺子	餃子	jiao3 zi5	dumpling
+面	麵	mian4	flour
+汤	湯	tang1	rushing current
+面包	麵包	mian4 bao1	bread
+饮料	飲料	yin3 liao4	drink
+菜单	菜單	cai4 dan1	menu
+盘子	盤子	pan2 zi5	tray
